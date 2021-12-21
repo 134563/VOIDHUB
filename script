@@ -37,6 +37,8 @@ TextLabel.Font = Enum.Font.Sarpanch
 TextLabel.Text = "VOIDHUB | Made by liteexploit"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 30.000
+TextLabel.Active = true
+TextLabel.Draggable = true
 
 Zoomhub.Name = "Zoomhub"
 Zoomhub.Parent = Frame
