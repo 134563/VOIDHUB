@@ -90,7 +90,7 @@ Jailbreak.Text = "Jailbreak"
 Jailbreak.TextColor3 = Color3.fromRGB(255, 255, 255)
 Jailbreak.TextSize = 19.000
 Jailbreak.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Jailbreak"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/MonkeyScripts/main/JailMonkey.lua"))()
 end)
 
 Meepcity.Name = "Meepcity"
